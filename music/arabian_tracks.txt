@@ -1,0 +1,437 @@
+#Song's of a Conqueror
+song = {
+    name = "arabian_nights"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "the_sultans_palace"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "the_turks"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "arabian_winds"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "full_moon_night"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "nile_queen"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "desert_throne"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "egyptian_scepter"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "magic_palace"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "aladdin"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "quicksand"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "cobra_desert"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "abandoned_city"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "desert_mercenaries"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "desert_nomad"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "nomad_camp"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "desert_sphinx"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "the_mummy"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "the_great_desert"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "great_desert"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "tomb_raiders"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "isis"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "ya_sahra"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "imhotep_the_high_priest"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "war_of_empires"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "the_great_fortress"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "ancient_lamp"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "hual_hadi"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+song = {
+    name = "the_arrivals"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { religion_group = muslim }
+        }
+        modifier = {
+            factor = 2 
+            religion_group = muslim
+        }
+    }
+}
+
+############

@@ -1,0 +1,152 @@
+#Song's of a Conqueror
+song = {
+    name = "turkish_music_0"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_1"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_2"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_3"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_4"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_5"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_6"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_7"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_8"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+song = {
+    name = "turkish_music_9"
+    
+    chance = {
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = turkish }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = turkish
+        }
+    }
+}
+
+############
